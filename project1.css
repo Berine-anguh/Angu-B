@@ -1,0 +1,68 @@
+#header {
+    padding: 5px;
+    
+    height: 60px;
+}
+body {
+    padding-bottom: 20px;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+#intro {
+    padding: 5px;
+    height: 200px;
+}
+.text {
+  padding-top: 7%;
+}
+.content {
+  padding: 30%;
+}
+.toy {
+  padding-top: 4%;
+}
+.yot {
+  padding-right: 35%;
+}
+
+#welcome {
+   height: 230px;
+  
+}
+.row {
+    flex-direction: row;
+    display: flex;
+}
+.box {
+    padding: 20px;
+    height: 70px;
+    background-color: black;
+    color: aliceblue;
+    border: black solid 1px;
+    margin: 20px;
+    width: 50%;
+}
+.themed-grid-col {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(112.520718, 44.062154, 249.437846, .15);
+    border: 1px solid rgba(112.520718, 44.062154, 249.437846, .3);
+  }
+  
+  .themed-container {
+    padding: .75rem;
+    margin-bottom: 1.5rem;
+    background-color: rgba(112.520718, 44.062154, 249.437846, .15);
+    border: 1px solid rgba(112.520718, 44.062154, 249.437846, .3);
+  }
+  #footer {
+    height: 35px;
+    padding: 5px;
+    background-color: black;
+    color: beige;
+  }
+
+
+
